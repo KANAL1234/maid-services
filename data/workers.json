@@ -1,3 +1,17 @@
 {
-  "rows": []
+  "rows": [
+    {
+      "username": "hi_1",
+      "name": "hi_1",
+      "city": "Faridabad",
+      "skills": [
+        "service",
+        "cooking"
+      ],
+      "rate_per_hour": 800,
+      "bio": "",
+      "daily_start": "09:00",
+      "daily_end": "18:00"
+    }
+  ]
 }
