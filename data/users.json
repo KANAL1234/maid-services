@@ -15,6 +15,14 @@
       "pwd_salt": "NZyvJaoXeKqAeRiwiB7cUQ==",
       "pwd_hash": "VRm1YWs3HzpH730JvyX0+cBQKIh6ahw50VpSiYdLRKM=",
       "created_at": "2025-08-22T04:53:17+05:30"
+    },
+    {
+      "username": "hi_1",
+      "email": "dasdss@gmail.com",
+      "role": "worker",
+      "pwd_salt": "9rYX7ciXNCQgY4yYxA6Bcg==",
+      "pwd_hash": "c1HAzTNOEyNa3aVF3ihjrnHq/5QGGAD1npNFHsvPtoY=",
+      "created_at": "2025-08-22T04:54:12+05:30"
     }
   ]
 }
