@@ -7,6 +7,14 @@
       "pwd_salt": "O3RiDGvEeMbmlBY+Mr/59w==",
       "pwd_hash": "pSyKeMYIZxtaPYIMHhvs9zLXZ3AYg9fyriseoeasijI=",
       "created_at": "2025-08-22T04:51:10+05:30"
+    },
+    {
+      "username": "kanal_chandna1",
+      "email": "officialkchandna@gmail.com",
+      "role": "customer",
+      "pwd_salt": "NZyvJaoXeKqAeRiwiB7cUQ==",
+      "pwd_hash": "VRm1YWs3HzpH730JvyX0+cBQKIh6ahw50VpSiYdLRKM=",
+      "created_at": "2025-08-22T04:53:17+05:30"
     }
   ]
 }
